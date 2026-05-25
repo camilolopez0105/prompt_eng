@@ -1,0 +1,34 @@
+<cv id="1">
+María Gómez Ruiz
+Ingeniera de datos con 6 años de experiencia.
+Contacto: maria.gomez@correo.com | LinkedIn: /in/mariagomez
+Tecnologías: Python, Spark, Airflow, dbt, Snowflake, AWS
+</cv>
+
+<cv id="2">
+Carlos Pereira
+Desarrollador frontend. Llevo desde 2019 trabajando profesionalmente.
+Email: carlos[at]pereira-dev[dot]es
+Stack: React, TypeScript, Next.js, Tailwind
+</cv>
+
+<cv id="3">
+Yuki Tanaka
+Recién graduada en ciencia de datos por la UAM.
+Busco mi primera oportunidad como data analyst.
+Conocimientos: Python, pandas, SQL, Tableau, un poco de R.
+</cv>
+
+<cv id="4">
+Ahmed El Khoury
+DevOps senior, más de 10 años en infraestructura cloud.
+ahmed.elkhoury@cloudops.io
+Especialista en: Kubernetes, Terraform, GCP, Azure, GitOps
+</cv>
+
+<cv id="5">
+Laura Benítez
+Data scientist con 4 años en banca.
+lbenitez@bancosur.es
+Skills: Python, scikit-learn, XGBoost, MLflow, PySpark, SQL
+</cv>

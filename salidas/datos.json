@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "María Gómez Ruiz",
+    "email": "maria.gomez@correo.com",
+    "años_experiencia": 6,
+    "skills": ["python", "spark", "airflow", "dbt", "snowflake", "aws"]
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos Pereira",
+    "email": "carlos@pereira-dev.es",
+    "años_experiencia": 7,
+    "skills": ["react", "typescript", "next.js", "tailwind"]
+  },
+  {
+    "id": 3,
+    "nombre": "Yuki Tanaka",
+    "email": null,
+    "años_experiencia": null,
+    "skills": ["python", "pandas", "sql", "tableau", "r"]
+  },
+  {
+    "id": 4,
+    "nombre": "Ahmed El Khoury",
+    "email": "ahmed.elkhoury@cloudops.io",
+    "años_experiencia": 10,
+    "skills": ["kubernetes", "terraform", "gcp", "azure", "gitops"]
+  },
+  {
+    "id": 5,
+    "nombre": "Laura Benítez",
+    "email": "lbenitez@bancosur.es",
+    "años_experiencia": 4,
+    "skills": ["python", "scikit-learn", "xgboost", "mlflow", "pyspark", "sql"]
+  }
+]

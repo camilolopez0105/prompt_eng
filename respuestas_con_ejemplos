@@ -1,0 +1,44 @@
+>>> La aplicacion se cierra sola al abrir el modulo de informes
+BUG
+
+>>> necesito una factura desglosada del mes pasado, no la encuentro en mi cuenta
+BILLING
+
+>>> seria genial poder filtrar el listado por fecha y por usuario a la vez
+FEATURE
+
+>>> donde puedo cambiar mi contraseña
+OTROS
+
+>>> el email de confirmación nunca llega aunque le doy a reenviar 10 veces
+BUG
+
+>>> Me gustaría un modo oscuro
+FEATURE
+
+>>> Llevo cobrado el plan pro desde marzo pero sigo viendo el free
+BILLING
+
+>>> La api tiene rate limit?
+OTROS
+
+>>> Al exportar a pdf las tildes salen como cuadrados
+BUG
+
+>>> cancelé mi suscripción y me habeís vuelto a cobrar
+BILLING
+
+>>> Hay alguna integración con Slack?
+OTROS
+
+>>> La bsuqueda no devuelve resultadosd auqnue sé que existen
+BUG
+
+>>> Tenéis app para ipad?
+OTROS
+
+>>> cuanto cuesta el plan enterprise
+BILLING
+
+>>> Después de migrar a v3 mis dashboard aparecen en blanco
+BUG
